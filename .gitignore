@@ -1,1 +1,6 @@
 secret.yaml
+
+play-line-bot
+go.mod
+go.sum
+.gcloudignore
